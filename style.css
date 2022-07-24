@@ -125,6 +125,14 @@
     text-decoration: none;
 }
 
+.join-par {
+    text-align: center;
+}
+
+.join {
+    color: #fff;
+}
+
 .contact:hover {
     background-color: rgba(16 18 27 / 40%);
     transition: 0.5s;
