@@ -131,6 +131,7 @@
 
 .join {
     color: #fff;
+    z-index:999;
 }
 
 .contact:hover {
