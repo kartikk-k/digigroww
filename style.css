@@ -114,11 +114,23 @@
     padding: 2px 10px;
     border-radius: 999px;
     border: 1px solid rgb(221, 221, 221);
-    color: #fff;
     position: absolute;
     cursor: pointer;
     top: 20px;
     right: 20px;
+}
+
+.s-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.join-par {
+    text-align: center;
+}
+
+.join {
+    color: #fff;
 }
 
 .contact:hover {
